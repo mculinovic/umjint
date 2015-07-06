@@ -1,0 +1,23 @@
+p = t
+q = t
+r = t
+s = t
+w = t
+t = t
+u = t
+v = t
+cilj = t
+pocetak = t
+
+IF p = t & q = t
+THEN cilj = t
+IF r = t & s = t
+THEN p = t
+IF w = t & r = t
+THEN q = t
+IF t = t & u = t
+THEN q = t
+IF v = t
+THEN s = t
+IF pocetak = t
+THEN v = t & r = t & q = t
